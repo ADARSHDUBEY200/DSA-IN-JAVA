@@ -1,0 +1,5 @@
+package _01_CODING PRACTICE._01_VARIABLES AND DATA TYPES;
+
+public class _04_TYPE_CONVERSION {
+    
+}
