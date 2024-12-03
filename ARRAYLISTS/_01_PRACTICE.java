@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class _01_PRACTICE {
 
@@ -60,11 +61,19 @@ public class _01_PRACTICE {
 
         // BASICALLY I WANT TO SWAP TO NUMBERS OF THE ARRAYLISTS USING THE FUNCTIONS
 
-        int index1 = 1;
-        int index2 = 3;
+        // int index1 = 1;
+        // int index2 = 3;
+        // System.out.println(list);
+        // swap(list, index1, index2);
         System.out.println(list);
-        swap(list, index1, index2);
+        Collections.sort(list);//ascending order
+
         System.out.println(list);
+
+        Collections.sort(list,Collections.reverseOrder());
+        System.out.println(list);
+
+
 
 
 
