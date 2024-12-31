@@ -70,7 +70,7 @@ public class _01_PRACTICE {
 
         System.out.println(list);
 
-        Collections.sort(list,Collections.reverseOrder());
+        Collections.sort(list,Collections.reverseOrder());//descending order 
         System.out.println(list);
 
 
