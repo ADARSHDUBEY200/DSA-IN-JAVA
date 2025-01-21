@@ -30,7 +30,7 @@ public class _01_POWER_XN {
     public static void main(String[] args) {
         
 
-        double  n = 2000;
+        double  n = 20;
         double  a =2 ;
 
         double  value = Power(a , n);
