@@ -3,6 +3,14 @@ public class _06_SUDOKU {
     public static boolean sudokuSolver(int sudoku[][], int row , int col){
         // BASE CASE 
 
+        if (row == 9 && col == 9) {
+
+            return true;
+            
+        }else if ( row ==9 ){
+            return false ;
+        }
+
         // RECURSION CALL(WORK TO DO ) 
 
         if(col== sudoku[0].length){
@@ -16,12 +24,14 @@ public class _06_SUDOKU {
                 sudoku[row][col] = digit ;
             }
 
-            if (sudokuSolver(sudoku, row, col+1)) {// SOLUTIONS EXISTS 
+            if (sudokuSolver(sudoku, row, col+1)) { // SOLUTIONS EXISTS 
                 return true ;
             }
 
             sudoku[row][col] = 0;
         }
+
+        return false ;
 
         // BELIVE IN THE INNER FUCTION WE CALLED  
     }

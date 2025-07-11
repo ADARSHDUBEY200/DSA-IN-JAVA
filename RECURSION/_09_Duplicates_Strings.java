@@ -29,10 +29,6 @@ public class _09_Duplicates_Strings {
     public static void main(String[] args) {
         
         String str="appnnacollege";
-       
-
-    
-        
         Duplicates(str,0,new StringBuilder(""),new boolean[26]);
     }
     

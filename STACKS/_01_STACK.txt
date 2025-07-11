@@ -1,0 +1,13 @@
+1. stack is data structure . 
+
+2. We can implement the stack by using three methods : 
+    a. ARRAYS b. ARRAYLISTS c. LINKEDLISTS 
+
+3. If we use the arrays sometimes it is inefficient due to the fixed size of the array that's we use only the linkedlists and arraylists .
+
+4. operations in stacks : 
+ a. PUSH(O(1)) // it puts the element on the top of the stack
+ b. POP(O(1))  // it remove or delete the element from the top of the stack
+ c. PEEK(O(1)) // it get the top element in the stack
+
+5. Stack is LIFO (LAST IN FIRST OUT DATA STRUCTURE) the element which go last in the stack or data structure comes out first from the data structure.

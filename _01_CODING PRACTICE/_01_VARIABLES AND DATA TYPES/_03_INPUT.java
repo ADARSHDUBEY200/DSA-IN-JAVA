@@ -1,5 +1,7 @@
-package _01_CODING PRACTICE._01_VARIABLES AND DATA TYPES;
 
 public class _03_INPUT {
+    public static void main(String[] args) {
+        
+    }
     
 }
