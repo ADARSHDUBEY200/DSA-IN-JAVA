@@ -5,20 +5,7 @@ Welcome to the **DSA in Java** repository! This is a structured and comprehensiv
 ---
 
 ## 🏗️ Folder Structure
-
-DSA-IN-JAVA/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── StackQueue/
-├── Trees/
-├── Graphs/
-├── RecursionBacktracking/
-├── DynamicProgramming/
-├── SortingSearching/
-├── BitManipulation/
-└── README.md
-
+<pre lang="markdown"><code>## 🗂️ Folder Structure ``` DSA-IN-JAVA/ ├── Arrays/ ├── Strings/ ├── LinkedList/ ├── StackQueue/ ├── Trees/ ├── Graphs/ ├── RecursionBacktracking/ ├── DynamicProgramming/ ├── SortingSearching/ ├── BitManipulation/ └── README.md ``` </code></pre>
 ---
 
 ## 📚 Contents Covered
