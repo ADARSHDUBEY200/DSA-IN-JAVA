@@ -82,17 +82,20 @@ Codeforces
 HackerRank
 
 📊 Progress Tracker
-Topic	Status
-Arrays	✅ Completed
-Strings	✅ Completed
-Linked List	✅ Completed
-Stack & Queue	✅ Completed
-Trees	✅ Completed
-Graphs	✅ Completed
-Recursion & Backtrack	🚧 Ongoing
-DP	🚧 Ongoing
-Bit Manipulation	✅ Completed
-Sorting & Searching	✅ Completed
+
+| Topic                   | Status        |
+|-------------------------|---------------|
+| Arrays                 | ✅ Completed   |
+| Strings                | ✅ Completed   |
+| Linked List            | ✅ Completed   |
+| Stack & Queue          | ✅ Completed   |
+| Trees                  | ✅ Completed   |
+| Graphs                 | ✅ Completed   |
+| Recursion & Backtrack  | 🚧 Ongoing     |
+| DP                     | 🚧 Ongoing     |
+| Bit Manipulation       | ✅ Completed   |
+| Sorting & Searching    | ✅ Completed   |
+
 
 🧑‍💻 About Me
 I'm Adarsh Dubey, a passionate Java & MERN Stack developer, deeply focused on mastering Data Structures and Algorithms for software engineering interviews and competitive programming.
